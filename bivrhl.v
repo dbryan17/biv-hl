@@ -31,6 +31,14 @@ Note: I can provide the files I used as a reference if needed
 
 *)
 
+(* 
+
+attempting to prove partial completeness in this version 
+will probably need to define evaluation in lockstep for this since doing it
+the way of defining valid commands doesn't seem to work well
+
+*)
+
 
 (* ******************* *)
 
